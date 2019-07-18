@@ -1,4 +1,4 @@
 # websocket-client
-A .NET client for Websockts without SignalR
+A .NET client for Websockets without SignalR
 
 https://thecodegarden.net/websocket-client-dotnet
